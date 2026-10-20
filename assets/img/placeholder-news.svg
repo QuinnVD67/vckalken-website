@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Nieuws VC Kalken">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d2d52"/>
+      <stop offset="60%" stop-color="#173f6b"/>
+      <stop offset="100%" stop-color="#1c64b4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="10%" r="60%">
+      <stop offset="0" stop-color="#f6b821" stop-opacity=".3"/>
+      <stop offset="100%" stop-color="#f6b821" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ballsh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdf6"/>
+      <stop offset="100%" stop-color="#f7e9c4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect width="1200" height="800" fill="url(#glow)"/>
+  <g stroke="#ffffff" stroke-opacity=".08" stroke-width="2.5" fill="none">
+    <path d="M0 590 L1200 470"/>
+    <path d="M0 710 L1200 590"/>
+    <path d="M300 800 L520 460"/>
+  </g>
+  <g stroke="#f6b821" stroke-opacity=".4" fill="none" stroke-linecap="round">
+    <path d="M600 390 q160 -140 360 -110" stroke-width="3.5" stroke-dasharray="2 24"/>
+  </g>
+  <g transform="translate(920 250) rotate(-14)">
+    <circle r="105" fill="url(#ballsh)"/>
+    <circle r="105" fill="none" stroke="#f6b821" stroke-width="6"/>
+    <g fill="none" stroke-width="4.2">
+      <path d="M-105 0 Q0 -55 105 0" stroke="#1c64b4" stroke-opacity=".55"/>
+      <path d="M-99 -33 Q0 -87 99 -33" stroke="#1c64b4" stroke-opacity=".4"/>
+      <path d="M-105 0 Q0 55 105 0" stroke="#0a2342" stroke-opacity=".45"/>
+      <path d="M-99 33 Q0 87 99 33" stroke="#0a2342" stroke-opacity=".3"/>
+      <path d="M0 -105 Q-60 0 0 105" stroke="#0a2342" stroke-opacity=".4"/>
+      <path d="M37 -98 Q-17 0 37 98" stroke="#1c64b4" stroke-opacity=".35"/>
+    </g>
+  </g>
+  <g font-family="Plus Jakarta Sans, Arial, sans-serif">
+    <rect x="92" y="560" width="44" height="5" rx="2.5" fill="#f6b821"/>
+    <text x="92" y="616" fill="#ffffff" font-size="40" font-weight="800" letter-spacing="1">VC KALKEN</text>
+    <text x="92" y="656" fill="#cfe0f4" font-size="22" font-weight="600" letter-spacing="4">CLUBNIEUWS</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="760" viewBox="0 0 600 760" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Speler VC Kalken">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf2fb"/>
+      <stop offset="100%" stop-color="#d3e3f6"/>
+    </linearGradient>
+    <linearGradient id="sil" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b568c"/>
+      <stop offset="100%" stop-color="#0a2342"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="760" fill="url(#bg)"/>
+  <!-- subtle gold arc behind silhouette -->
+  <circle cx="300" cy="430" r="215" fill="none" stroke="#f6b821" stroke-opacity=".35" stroke-width="10"/>
+  <!-- person silhouette -->
+  <g fill="url(#sil)">
+    <circle cx="300" cy="300" r="105"/>
+    <path d="M300 430 c-125 0 -212 82 -228 210 a12 12 0 0 0 12 14 h432 a12 12 0 0 0 12 -14 c-16 -128 -103 -210 -228 -210z"/>
+  </g>
+  <!-- jersey collar accent -->
+  <path d="M245 448 q55 42 110 0 l-14 30 q-41 26 -82 0 z" fill="#f6b821" fill-opacity=".9"/>
+</svg>

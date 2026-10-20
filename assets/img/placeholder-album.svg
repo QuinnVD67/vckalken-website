@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Fotoalbum VC Kalken">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a2342"/>
+      <stop offset="55%" stop-color="#143a66"/>
+      <stop offset="100%" stop-color="#1c64b4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="75%" cy="10%" r="65%">
+      <stop offset="0" stop-color="#f6b821" stop-opacity=".3"/>
+      <stop offset="100%" stop-color="#f6b821" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ballsh" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdf6"/>
+      <stop offset="100%" stop-color="#f7e9c4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1000" fill="url(#bg)"/>
+  <rect width="1000" height="1000" fill="url(#glow)"/>
+  <g stroke="#ffffff" stroke-opacity=".08" stroke-width="2.5" fill="none">
+    <path d="M0 700 L1000 590"/>
+    <path d="M0 820 L1000 710"/>
+    <path d="M260 1000 L440 590"/>
+  </g>
+  <!-- photo frames -->
+  <g transform="translate(500 430)">
+    <g transform="rotate(-8)">
+      <rect x="-190" y="-150" width="380" height="300" rx="18" fill="#ffffff" fill-opacity=".1" stroke="#ffffff" stroke-opacity=".28" stroke-width="3"/>
+    </g>
+    <g transform="rotate(5)">
+      <rect x="-170" y="-135" width="340" height="270" rx="16" fill="#ffffff" fill-opacity=".14" stroke="#ffffff" stroke-opacity=".4" stroke-width="3"/>
+      <g transform="translate(0 -8) rotate(-14)">
+        <circle r="72" fill="url(#ballsh)"/>
+        <circle r="72" fill="none" stroke="#f6b821" stroke-width="4.5"/>
+        <g fill="none" stroke-width="3.2">
+          <path d="M-72 0 Q0 -38 72 0" stroke="#1c64b4" stroke-opacity=".55"/>
+          <path d="M-68 -23 Q0 -60 68 -23" stroke="#1c64b4" stroke-opacity=".4"/>
+          <path d="M-72 0 Q0 38 72 0" stroke="#0a2342" stroke-opacity=".45"/>
+          <path d="M-68 23 Q0 60 68 23" stroke="#0a2342" stroke-opacity=".3"/>
+          <path d="M0 -72 Q-41 0 0 72" stroke="#0a2342" stroke-opacity=".4"/>
+          <path d="M25 -67 Q-11 0 25 67" stroke="#1c64b4" stroke-opacity=".35"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

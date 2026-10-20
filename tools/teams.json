@@ -1,0 +1,20 @@
+{
+  "_info": "Welke ploegen worden automatisch bijgewerkt? 'ics_id' is het nummer uit de Volleyscores-agendalink (volleyscores.be/calendar/team/<ics_id>). Ploegen zonder ics_id (bv. Vobog, U11) worden niet overschreven: hun wedstrijden in data/matches.json blijven staan. Nieuwe ploeg of nieuw seizoen? Pas hier gewoon de nummers aan.",
+  "club_url": "https://www.volleyscores.be/direct/O-1464",
+  "teams": [
+    {"slug": "heren-a",       "ics_id": 105856, "cat": "heren", "league": "Nationale 3 Heren A"},
+    {"slug": "heren-b",       "ics_id": 102358, "cat": "heren", "league": "Heren B · Promo 2"},
+    {"slug": "heren-c",       "ics_id": 102360, "cat": "heren", "league": "Heren C · Promo 3A"},
+    {"slug": "dames-a",       "ics_id": 102361, "cat": "dames", "league": "Dames A · Promo 1"},
+    {"slug": "dames-b",       "ics_id": 102362, "cat": "dames", "league": "Dames B · Promo 3A"},
+    {"slug": "dames-c",       "ics_id": 102363, "cat": "dames", "league": "Dames C · Promo 4B"},
+    {"slug": "meisjes-u17-a", "ics_id": 102373, "cat": "jeugd", "league": "Meisjes U17 · Niveau 1"},
+    {"slug": "meisjes-u17-b", "ics_id": 102374, "cat": "jeugd", "league": "Meisjes U17 · Niveau 3"},
+    {"slug": "meisjes-u15-a", "ics_id": 102371, "cat": "jeugd", "league": "Meisjes U15 · Niveau 1"},
+    {"slug": "meisjes-u15-b", "ics_id": 102372, "cat": "jeugd", "league": "Meisjes U15 · Niveau 3"},
+    {"slug": "meisjes-u13",   "ics_id": 102370, "cat": "jeugd", "league": "Meisjes U13 · Niveau 3"},
+    {"slug": "jongens-u15-a", "ics_id": 102368, "cat": "jeugd", "league": "Jongens U15 · Niveau 1"},
+    {"slug": "gemengd-u13",   "ics_id": 102367, "cat": "jeugd", "league": "U13 · Niveau 1"},
+    {"slug": "jongens-u17",   "ics_id": 102369, "cat": "jeugd", "league": "Jongens U17-U19 · Niveau 1"}
+  ]
+}
