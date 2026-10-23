@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T12:06",
+ "updated": "2026-10-23T19:07",
  "matches": [
   {
    "team": "jongens-u15-a",
@@ -2252,21 +2252,6 @@
    "url": "https://www.volleyscores.be/direct/O-1464"
   },
   {
-   "team": "dames-a",
-   "cat": "dames",
-   "date": "30/01/2027",
-   "time": "20:30",
-   "iso": "2027-01-30T20:30",
-   "home": "ODP1-0057: VC KALKEN A",
-   "away": "VD Tools LEDE A",
-   "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
-   "league": "Dames A · Promo 1",
-   "number": "ODP1-0057",
-   "loc": "home",
-   "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
-  },
-  {
    "team": "heren-a",
    "cat": "heren",
    "date": "30/01/2027",
@@ -2743,6 +2728,21 @@
    "league": "Heren B · Promo 2",
    "number": "OHP2-0071",
    "loc": "away",
+   "cancelled": false,
+   "url": "https://www.volleyscores.be/direct/O-1464"
+  },
+  {
+   "team": "dames-a",
+   "cat": "dames",
+   "date": "27/03/2027",
+   "time": "20:30",
+   "iso": "2027-03-27T20:30",
+   "home": "ODP1-0057: VC KALKEN A",
+   "away": "VD Tools LEDE A",
+   "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
+   "league": "Dames A · Promo 1",
+   "number": "ODP1-0057",
+   "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
   },
