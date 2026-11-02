@@ -454,6 +454,12 @@
       };
     });
   const matches = realMatches.concat(linkCards);
+  // Gespeelde wedstrijd: uitslag (groen = gewonnen, rood = verloren) i.p.v. het Thuis/Uit-label
+  function scoreTag(m, fallback) {
+    if (!m.score || m.cancelled) return `<span class="tag">${fallback}</span>`;
+    const label = { win: "gewonnen", loss: "verloren" }[m.result] || "uitslag";
+    return `<span class="tag score ${m.result || ""}" title="${label}" aria-label="Uitslag ${m.score}, ${label}">${m.score}</span>`;
+  }
   function renderMatches() {
     const box = document.querySelector("#matches");
     if (!box) return;
@@ -497,7 +503,10 @@
                 ? "Uit"
                 : "Link";
           const sub = m.number || (m.link ? "Volleyscores" : "");
-          return `<article class="match ${m.loc}${m.cancelled ? " cancelled" : ""}"><div class="date">${m.date}<small>${m.time}</small><div class="league">${sub}</div></div><div class="teams">${m.home}<small>tegen / info</small>${m.away}<small>${m.hall}</small><div class="league">${m.league}</div></div><span class="tag">${tag}</span><a class="btn vs-link" target="_blank" rel="noopener" href="${m.url}">Open Volleyscores</a></article>`;
+          const sets = m.score
+            ? `<div class="sets">${(m.sets || []).join(" · ")}${m.reserves ? `<span>Reserven ${m.reserves}</span>` : ""}</div>`
+            : "";
+          return `<article class="match ${m.loc}${m.cancelled ? " cancelled" : ""}"><div class="date">${m.date}<small>${m.time}</small><div class="league">${sub}</div></div><div class="teams">${m.home}<small>tegen / info</small>${m.away}<small>${m.hall}</small><div class="league">${m.league}</div>${sets}</div>${scoreTag(m, tag)}<a class="btn vs-link" target="_blank" rel="noopener" href="${m.url}">Open Volleyscores</a></article>`;
         })
         .join("") ||
       '<div class="empty-state">Geen wedstrijden gevonden met deze filters.</div>';
@@ -604,7 +613,7 @@
     box.innerHTML = weekMatches
       .map(
         (m) =>
-          `<article class="match ${m.loc}${m.cancelled ? " cancelled" : ""}"><div class="date">${m.date.slice(0, 5)}<small>${m.time}</small></div><div class="teams">${m.home} <span class="vs">–</span> ${m.away}<div class="league">${m.league}${m.hall ? " · " + m.hall : ""}</div></div><span class="tag">${m.cancelled ? "Afgelast" : m.loc === "home" ? "Thuis" : "Uit"}</span></article>`,
+          `<article class="match ${m.loc}${m.cancelled ? " cancelled" : ""}"><div class="date">${m.date.slice(0, 5)}<small>${m.time}</small></div><div class="teams">${m.home} <span class="vs">–</span> ${m.away}<div class="league">${m.league}${m.hall ? " · " + m.hall : ""}</div></div>${scoreTag(m, m.cancelled ? "Afgelast" : m.loc === "home" ? "Thuis" : "Uit")}</article>`,
       )
       .join("");
   }

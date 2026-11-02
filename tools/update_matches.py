@@ -15,6 +15,8 @@ Werking in het kort:
   * lukt het ophalen voor een ploeg niet, dan blijven de oude wedstrijden van
     die ploeg gewoon staan (de site wordt dus nooit leeg door een storing);
   * ploegen zonder ics_id worden niet aangeraakt;
+  * uitslagen (sets, reserven) komen uit de VolleyAdmin2-export van de club;
+    lukt dat niet, dan blijven de vorige uitslagen staan;
   * de bestanden worden enkel herschreven als er echt iets veranderd is,
     zodat er geen nutteloze wijzigingen ontstaan.
 
@@ -29,6 +31,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -37,6 +40,10 @@ FEED_URLS = (
     "https://www.volleyscores.be/calendar/team/{id}",
     "http://www.volleyscores.be/calendar/team/{id}",  # sommige feeds waren historisch enkel via http bereikbaar
 )
+# De .ics-feeds bevatten geen uitslagen; die komen uit de XML-export van VolleyAdmin2
+# (Volley Vlaanderen), voor alle wedstrijden van de club in één keer.
+RESULTS_URL = "https://www.volleyadmin2.be/services/wedstrijden_xml.php?stamnummer={club}"
+RESULT_KEYS = ("score", "sets", "reserves", "result")
 
 # ------------------------------------------------------------------ tijdzone
 try:
@@ -137,7 +144,7 @@ def split_teams(summary):
     return " - ".join(parts[:k + 1]), " - ".join(parts[k + 1:])
 
 
-NUMBER_RE = re.compile(r"\b[A-Z0-9]{2,}(?:-[A-Za-z0-9]{1,4})*-\d{3,4}\b")
+NUMBER_RE = re.compile(r"\b[A-Z][A-Za-z0-9]+(?:-[A-Za-z0-9]{1,4})*-\d{3,4}\b")  # ook 'OMU13N3R1e-0001'
 PREFIX_RE = re.compile(r"^\s*" + NUMBER_RE.pattern + r"\s*:\s*")
 
 
@@ -185,6 +192,46 @@ def download(team_id):
                 last = e
                 time.sleep(2 * (attempt + 1))
     raise RuntimeError(f"ophalen mislukt ({last})")
+
+
+# ------------------------------------------------------------------ uitslagen
+def download_results(club):
+    req = urllib.request.Request(RESULTS_URL.format(club=club),
+                                 headers={"User-Agent": "vckalken-website-updater/1.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        root = ET.fromstring(r.read())
+    return [{e.tag: (e.text or "").strip() for e in w} for w in root.iter("wedstrijd")]
+
+
+def add_results(matches, games, club, team_ids):
+    """Zet uitslag, setstanden en reserven bij gespeelde wedstrijden. Koppelt op
+    wedstrijdnummer, of op ploeg + datum als het nummer in de feed ontbreekt."""
+    by_nr = {g["nr"]: g for g in games if g.get("nr")}
+    by_day = {}
+    for g in games:
+        for side in ("thuisploeg_id", "bezoekersploeg_id"):
+            slug = team_ids.get(g.get(side, ""))
+            if slug:
+                by_day[(slug, g.get("datum", ""))] = g
+    found = 0
+    for m in matches:
+        g = by_nr.get(m["number"]) if m["number"] else by_day.get((m["team"], m["date"]))
+        if not g:
+            continue
+        if not m["number"]:
+            m["number"] = g["nr"]
+        score = re.fullmatch(r"(\d+)\s*-\s*(\d+)", g.get("uitslag", ""))
+        if not score:
+            continue  # nog niet gespeeld
+        home, away = int(score.group(1)), int(score.group(2))
+        ours, theirs = (home, away) if g.get("stamnummer_thuisclub") == club else (away, home)
+        m["score"] = f"{home} - {away}"
+        m["sets"] = [g[f"uitslag_set_{i}"] for i in range(1, 6) if g.get(f"uitslag_set_{i}")]
+        if g.get("uitslagReserven"):
+            m["reserves"] = g["uitslagReserven"]
+        m["result"] = "win" if ours > theirs else "loss" if ours < theirs else ""
+        found += 1
+    return found
 
 
 def load_previous(out_dir):
@@ -237,6 +284,18 @@ def main():
             failed += 1
             result.extend(previous_team)
             print(f"  FOUT {slug:15s} {e} ({len(previous_team)} oude wedstrijden behouden)", file=sys.stderr)
+
+    club = club_url.rstrip("/").rsplit("/", 1)[-1]  # stamnummer, bv. O-1464
+    team_ids = {str(t["ics_id"]): t["slug"] for t in teams if t.get("ics_id")}
+    try:
+        games = download_results(club)
+        print(f"  ok   uitslagen      {add_results(result, games, club, team_ids):3d} gespeelde wedstrijden")
+    except Exception as e:  # uitslagen zijn bijzaak: vorige uitslagen behouden en verder
+        print(f"  FOUT uitslagen      {e} (vorige uitslagen behouden)", file=sys.stderr)
+        prev = {(m.get("team"), m.get("iso")): m for m in old}
+        for m in result:
+            p = prev.get((m["team"], m["iso"]), {})
+            m.update({k: p[k] for k in RESULT_KEYS if k in p})
 
     result.sort(key=lambda m: (m["iso"], m["team"]))
     if result == old and previous.get("updated"):

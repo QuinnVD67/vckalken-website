@@ -5,6 +5,11 @@ gegevens uit `data/matches.js`. Dat bestand wordt **niet met de hand** onderhoud
 `tools/update_matches.py` maakt het aan op basis van de officiële agendafeeds van
 Volleyscores (één per ploeg, met het volledige seizoen).
 
+De uitslagen (eindstand, setstanden en reserven) staan niet in die feeds. Het script haalt
+ze in dezelfde run op uit de XML-export van VolleyAdmin2
+(`volleyadmin2.be/services/wedstrijden_xml.php?stamnummer=O-1464`) en zet ze bij de
+gespeelde wedstrijden. Lukt dat niet, dan blijven de vorige uitslagen staan.
+
 ## Eenmalig instellen (GitHub)
 
 1. Zet de map van de website in een GitHub-repository (de inhoud van de zip in de root).

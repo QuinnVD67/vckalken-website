@@ -2750,6 +2750,36 @@ a:hover {
   font-weight: 700
 }
 
+/* Uitslagen van gespeelde wedstrijden (VolleyAdmin2) */
+.match .tag.score {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap
+}
+
+.match .tag.score.win {
+  background: #dcf5e6;
+  color: #12723a
+}
+
+.match .tag.score.loss {
+  background: #fbe3dc;
+  color: #a8402a
+}
+
+.match .sets {
+  margin-top: 6px;
+  font-size: .8rem;
+  font-weight: 700;
+  color: var(--navy);
+  font-variant-numeric: tabular-nums
+}
+
+.match .sets span {
+  margin-left: 10px;
+  color: var(--muted);
+  font-weight: 600
+}
+
 /* Compact weekoverzicht op de homepage */
 #week-matches {
   gap: 8px

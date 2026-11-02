@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:54",
+ "updated": "2026-11-02T12:26",
  "matches": [
   {
    "team": "jongens-u15-a",
@@ -14,7 +14,15 @@
    "number": "OJU15N1R1-0039",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/12",
+    "25/15",
+    "25/23",
+    "25/16"
+   ],
+   "result": "loss"
   },
   {
    "team": "heren-vobog",
@@ -52,14 +60,22 @@
    "date": "12/09/2026",
    "time": "14:00",
    "iso": "2026-09-12T14:00",
-   "home": "OMU13N3R1e-0001: VC LOCHRISTI-WACHTEBEKE A",
+   "home": "VC LOCHRISTI-WACHTEBEKE A",
    "away": "VC KALKEN (+)",
    "hall": "Zaffelare, Sporthal 't Veerleveld, K.P.Triestlaan 1, 9080 Zaffelare Belgie",
    "league": "Meisjes U13 · Niveau 3",
-   "number": "",
+   "number": "OMU13N3R1e-0001",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/17",
+    "23/25",
+    "26/24",
+    "25/14"
+   ],
+   "result": "loss"
   },
   {
    "team": "heren-b",
@@ -74,7 +90,16 @@
    "number": "OHP2-0002",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "22/25",
+    "20/25",
+    "25/18",
+    "14/25"
+   ],
+   "reserves": "2 - 1",
+   "result": "loss"
   },
   {
    "team": "jongens-u17",
@@ -82,14 +107,22 @@
    "date": "12/09/2026",
    "time": "20:00",
    "iso": "2026-09-12T20:00",
-   "home": "OJU17U19N1R1b-0001: Vamos STEKENE - SINT-GILLIS-WAAS (S)",
+   "home": "Vamos STEKENE - SINT-GILLIS-WAAS (S)",
    "away": "VC KALKEN (S)",
    "hall": "Stekene, Sporthal De Sportstek, Nieuwstraat 60D, 9190 Stekene Belgie",
    "league": "Jongens U17-U19 · Niveau 1",
-   "number": "",
+   "number": "OJU17U19N1R1b-0001",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "10/25",
+    "16/25",
+    "26/24",
+    "22/25"
+   ],
+   "result": "win"
   },
   {
    "team": "dames-c",
@@ -104,7 +137,15 @@
    "number": "ODP4B-0058",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 3",
+   "sets": [
+    "10/25",
+    "14/25",
+    "12/25"
+   ],
+   "reserves": "0 - 3",
+   "result": "loss"
   },
   {
    "team": "meisjes-u17-b",
@@ -112,14 +153,22 @@
    "date": "13/09/2026",
    "time": "10:00",
    "iso": "2026-09-13T10:00",
-   "home": "OMU17N3R1e-0001: Forza Evo Volley OUDENAARDE C",
+   "home": "Forza Evo Volley OUDENAARDE C",
    "away": "VC KALKEN B (+)",
    "hall": "Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie",
    "league": "Meisjes U17 · Niveau 3",
-   "number": "",
+   "number": "OMU17N3R1e-0001",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "24/26",
+    "25/15",
+    "25/13",
+    "25/19"
+   ],
+   "result": "loss"
   },
   {
    "team": "gemengd-u13",
@@ -134,7 +183,16 @@
    "number": "OJU13N1R1-0002",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 2",
+   "sets": [
+    "25/20",
+    "23/25",
+    "22/25",
+    "25/15",
+    "15/8"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-b",
@@ -142,14 +200,22 @@
    "date": "13/09/2026",
    "time": "13:30",
    "iso": "2026-09-13T13:30",
-   "home": "OMU15N3R1f-0002: VC KALKEN B",
+   "home": "VC KALKEN B",
    "away": "Tent-Events Eevoc ERTVELDE-EVERGEM B (+)",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U15 · Niveau 3",
-   "number": "",
+   "number": "OMU15N3R1f-0002",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/11",
+    "25/5",
+    "25/19",
+    "25/9"
+   ],
+   "result": "win"
   },
   {
    "team": "meisjes-u17-a",
@@ -157,14 +223,22 @@
    "date": "13/09/2026",
    "time": "13:30",
    "iso": "2026-09-13T13:30",
-   "home": "OMU17N1R1b-0001: VC KALKEN A",
+   "home": "VC KALKEN A",
    "away": "Damesvolley Dok Noord GENT A",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U17 · Niveau 1",
-   "number": "",
+   "number": "OMU17N1R1b-0001",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "14/25",
+    "25/23",
+    "13/25",
+    "18/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "dames-b",
@@ -179,7 +253,15 @@
    "number": "ODP3A-0004",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 3",
+   "sets": [
+    "15/25",
+    "14/25",
+    "5/25"
+   ],
+   "reserves": "0 - 3",
+   "result": "win"
   },
   {
    "team": "jongens-u15-a",
@@ -194,7 +276,15 @@
    "number": "OJU15N1R1-0001",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/22",
+    "18/25",
+    "25/15",
+    "25/15"
+   ],
+   "result": "win"
   },
   {
    "team": "gemengd-u13",
@@ -209,7 +299,15 @@
    "number": "OJU13N1R1-0004",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 4",
+   "sets": [
+    "15/25",
+    "13/25",
+    "18/25",
+    "18/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u17-b",
@@ -217,14 +315,22 @@
    "date": "19/09/2026",
    "time": "13:30",
    "iso": "2026-09-19T13:30",
-   "home": "OMU17N3R1e-0003: VC KALKEN B (+)",
+   "home": "VC KALKEN B (+)",
    "away": "VC LOCHRISTI-WACHTEBEKE B (+)",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U17 · Niveau 3",
-   "number": "",
+   "number": "OMU17N3R1e-0003",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/20",
+    "25/18",
+    "12/25",
+    "25/20"
+   ],
+   "result": "win"
   },
   {
    "team": "jongens-u17",
@@ -232,14 +338,23 @@
    "date": "19/09/2026",
    "time": "14:00",
    "iso": "2026-09-19T14:00",
-   "home": "OJU17U19N1R1b-0004: VC Belvoc BELSELE A (S)",
+   "home": "VC Belvoc BELSELE A (S)",
    "away": "VC KALKEN (S)",
    "hall": "Belsele, Sporthal De Klavers, St-Andriesstraat, 9111 Belsele Belgie",
    "league": "Jongens U17-U19 · Niveau 1",
-   "number": "",
+   "number": "OJU17U19N1R1b-0004",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 2",
+   "sets": [
+    "23/25",
+    "25/23",
+    "26/28",
+    "25/13",
+    "15/8"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-b",
@@ -247,14 +362,22 @@
    "date": "19/09/2026",
    "time": "15:15",
    "iso": "2026-09-19T15:15",
-   "home": "OMU15N3R1f-0015: Vamos STEKENE-SINT-GILLIS WAAS B",
+   "home": "Vamos STEKENE-SINT-GILLIS WAAS B",
    "away": "VC KALKEN B",
    "hall": "Sint-Gillis-Waas, Sporthal De Gavers, Kard. J. Cardijnlaan 1, 9170 Sint-Gillis Waas Belgie",
    "league": "Meisjes U15 · Niveau 3",
-   "number": "",
+   "number": "OMU15N3R1f-0015",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "16/25",
+    "19/25",
+    "25/18",
+    "20/25"
+   ],
+   "result": "win"
   },
   {
    "team": "dames-b",
@@ -269,7 +392,16 @@
    "number": "ODP3A-0010",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/13",
+    "25/18",
+    "22/25",
+    "25/22"
+   ],
+   "reserves": "3 - 0",
+   "result": "win"
   },
   {
    "team": "dames-a",
@@ -284,7 +416,17 @@
    "number": "ODP1-0010",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 2",
+   "sets": [
+    "25/20",
+    "21/25",
+    "25/16",
+    "23/25",
+    "16/14"
+   ],
+   "reserves": "2 - 1",
+   "result": "loss"
   },
   {
    "team": "dames-c",
@@ -299,7 +441,16 @@
    "number": "ODP4B-0008",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/16",
+    "24/26",
+    "25/20",
+    "25/12"
+   ],
+   "reserves": "1 - 2",
+   "result": "win"
   },
   {
    "team": "meisjes-u13",
@@ -307,14 +458,22 @@
    "date": "20/09/2026",
    "time": "13:30",
    "iso": "2026-09-20T13:30",
-   "home": "OMU13N3R1e-0004: VC KALKEN (+)",
+   "home": "VC KALKEN (+)",
    "away": "Nidak NIEUWKERKEN A (+)",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U13 · Niveau 3",
-   "number": "",
+   "number": "OMU13N3R1e-0004",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 4",
+   "sets": [
+    "9/25",
+    "6/25",
+    "9/25",
+    "15/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "heren-c",
@@ -329,7 +488,16 @@
    "number": "OHP3A-0010",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "20/25",
+    "25/19",
+    "20/25",
+    "23/25"
+   ],
+   "reserves": "3 - 0",
+   "result": "loss"
   },
   {
    "team": "heren-b",
@@ -344,7 +512,15 @@
    "number": "OHP2-0006",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 0",
+   "sets": [
+    "25/21",
+    "25/17",
+    "25/16"
+   ],
+   "reserves": "2 - 1",
+   "result": "loss"
   },
   {
    "team": "meisjes-u17-a",
@@ -352,14 +528,22 @@
    "date": "26/09/2026",
    "time": "12:45",
    "iso": "2026-09-26T12:45",
-   "home": "OMU17N1R1b-0006: KVC Panda's LOKEREN A",
+   "home": "KVC Panda's LOKEREN A",
    "away": "VC KALKEN A",
    "hall": "Lokeren, Durmehal, Sportlaan 2, 9160 Lokeren Belgie",
    "league": "Meisjes U17 · Niveau 1",
-   "number": "",
+   "number": "OMU17N1R1b-0006",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "35/33",
+    "26/24",
+    "25/14",
+    "24/26"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-a",
@@ -367,14 +551,22 @@
    "date": "26/09/2026",
    "time": "13:30",
    "iso": "2026-09-26T13:30",
-   "home": "OMU15N1R1b-0005: VC KALKEN A (+)",
+   "home": "VC KALKEN A (+)",
    "away": "Damesvolley Dok Noord GENT B",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U15 · Niveau 1",
-   "number": "",
+   "number": "OMU15N1R1b-0005",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 4",
+   "sets": [
+    "17/25",
+    "17/25",
+    "24/26",
+    "9/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u17-b",
@@ -382,14 +574,22 @@
    "date": "26/09/2026",
    "time": "13:30",
    "iso": "2026-09-26T13:30",
-   "home": "OMU17N3R1e-0005: VC KALKEN B (+)",
+   "home": "VC KALKEN B (+)",
    "away": "VC OUDEGEM",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U17 · Niveau 3",
-   "number": "",
+   "number": "OMU17N3R1e-0005",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "31/29",
+    "24/26",
+    "16/25",
+    "16/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "dames-b",
@@ -404,7 +604,16 @@
    "number": "ODP3A-0014",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "25/21",
+    "15/25",
+    "23/25",
+    "20/25"
+   ],
+   "reserves": "1 - 2",
+   "result": "win"
   },
   {
    "team": "gemengd-u13",
@@ -419,7 +628,15 @@
    "number": "OJU13N1R1-0015",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 4",
+   "sets": [
+    "14/25",
+    "9/25",
+    "19/25",
+    "9/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "jongens-u15-a",
@@ -434,7 +651,15 @@
    "number": "OJU15N1R1-0009",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/13",
+    "25/13",
+    "25/18",
+    "27/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-b",
@@ -442,14 +667,22 @@
    "date": "26/09/2026",
    "time": "16:15",
    "iso": "2026-09-26T16:15",
-   "home": "OMU15N3R1f-0023: Argos WAARSCHOOT A (+)",
+   "home": "Argos WAARSCHOOT A (+)",
    "away": "VC KALKEN B",
    "hall": "Waarschoot, Gemeentelijk Sportcentrum, Kleine Weg 3, 9950 Lievegem (Waarschoot) Belgie",
    "league": "Meisjes U15 · Niveau 3",
-   "number": "",
+   "number": "OMU15N3R1f-0023",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/9",
+    "25/14",
+    "25/19",
+    "25/8"
+   ],
+   "result": "loss"
   },
   {
    "team": "heren-b",
@@ -464,7 +697,15 @@
    "number": "OHP2-0011",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 0",
+   "sets": [
+    "25/22",
+    "25/22",
+    "25/23"
+   ],
+   "reserves": "2 - 1",
+   "result": "win"
   },
   {
    "team": "dames-a",
@@ -479,7 +720,16 @@
    "number": "ODP1-0011",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "19/25",
+    "25/18",
+    "25/22",
+    "26/24"
+   ],
+   "reserves": "1 - 2",
+   "result": "loss"
   },
   {
    "team": "heren-a",
@@ -494,7 +744,16 @@
    "number": "NAT3H-A-0027",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/21",
+    "25/16",
+    "21/25",
+    "25/23"
+   ],
+   "reserves": "1 - 2",
+   "result": "loss"
   },
   {
    "team": "heren-c",
@@ -509,7 +768,15 @@
    "number": "OHP3A-0019",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 3",
+   "sets": [
+    "30/32",
+    "23/25",
+    "21/25"
+   ],
+   "reserves": "2 - 1",
+   "result": "loss"
   },
   {
    "team": "meisjes-u13",
@@ -517,14 +784,22 @@
    "date": "27/09/2026",
    "time": "13:00",
    "iso": "2026-09-27T13:00",
-   "home": "OMU13N3R1e-0009: Gimm-E Waasland KRUIBEKE B (+)",
+   "home": "Gimm-E Waasland KRUIBEKE B (+)",
    "away": "VC KALKEN (+)",
    "hall": "Bazel, Sporthal De Dulpop, Beekdam, 9150 Kruibeke (Bazel) Belgie",
    "league": "Meisjes U13 · Niveau 3",
-   "number": "",
+   "number": "OMU13N3R1e-0009",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/16",
+    "25/22",
+    "25/18",
+    "25/22"
+   ],
+   "result": "loss"
   },
   {
    "team": "jongens-u17",
@@ -532,14 +807,22 @@
    "date": "27/09/2026",
    "time": "13:30",
    "iso": "2026-09-27T13:30",
-   "home": "OJU17U19N1R1b-0005: VC KALKEN (S)",
+   "home": "VC KALKEN (S)",
    "away": "VC Belvoc BELSELE (J) (+)",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Jongens U17-U19 · Niveau 1",
-   "number": "",
+   "number": "OJU17U19N1R1b-0005",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "16/25",
+    "13/25",
+    "16/25",
+    "25/22"
+   ],
+   "result": "loss"
   },
   {
    "team": "dames-c",
@@ -554,7 +837,16 @@
    "number": "ODP4B-0011",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "10/25",
+    "25/19",
+    "25/15",
+    "25/22"
+   ],
+   "reserves": "2 - 1",
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-a",
@@ -562,14 +854,22 @@
    "date": "03/10/2026",
    "time": "11:30",
    "iso": "2026-10-03T11:30",
-   "home": "OMU15N1R1b-0003: Ass'nee ASSENEDE",
+   "home": "Ass'nee ASSENEDE",
    "away": "VC KALKEN A (+)",
    "hall": "Assenede, Gem. Sporthal, Kapelledreef  1-3, 9960 Assenede Belgie",
    "league": "Meisjes U15 · Niveau 1",
-   "number": "",
+   "number": "OMU15N1R1b-0003",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/17",
+    "25/14",
+    "25/13",
+    "22/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u13",
@@ -577,14 +877,22 @@
    "date": "03/10/2026",
    "time": "13:00",
    "iso": "2026-10-03T13:00",
-   "home": "OMU13N3R1e-0012: Asterix AVO BEVEREN C",
+   "home": "Asterix AVO BEVEREN C",
    "away": "VC KALKEN (+)",
    "hall": "Melsele, Sporthal ´t Wit Zand, A.Rodenbachlaan 23, 9120 Beveren (Melsele) Belgie",
    "league": "Meisjes U13 · Niveau 3",
-   "number": "",
+   "number": "OMU13N3R1e-0012",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "25/11",
+    "21/25",
+    "23/25",
+    "20/25"
+   ],
+   "result": "win"
   },
   {
    "team": "gemengd-u13",
@@ -599,7 +907,16 @@
    "number": "OJU13N1R1-0008",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "2 - 3",
+   "sets": [
+    "25/22",
+    "19/25",
+    "25/15",
+    "13/25",
+    "5/15"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-b",
@@ -607,14 +924,22 @@
    "date": "03/10/2026",
    "time": "15:30",
    "iso": "2026-10-03T15:30",
-   "home": "OMU15N3R1f-0010: VC KALKEN B",
+   "home": "VC KALKEN B",
    "away": "VT Real Juri WETTEREN B",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U15 · Niveau 3",
-   "number": "",
+   "number": "OMU15N3R1f-0010",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/14",
+    "25/7",
+    "25/18",
+    "24/26"
+   ],
+   "result": "win"
   },
   {
    "team": "heren-b",
@@ -629,7 +954,15 @@
    "number": "OHP2-0018",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 0",
+   "sets": [
+    "25/16",
+    "25/19",
+    "27/25"
+   ],
+   "reserves": "2 - 1",
+   "result": "win"
   },
   {
    "team": "heren-c",
@@ -644,7 +977,15 @@
    "number": "OHP3A-0006",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 0",
+   "sets": [
+    "25/23",
+    "26/24",
+    "25/21"
+   ],
+   "reserves": "2 - 1",
+   "result": "loss"
   },
   {
    "team": "dames-a",
@@ -659,7 +1000,17 @@
    "number": "ODP1-0017",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 2",
+   "sets": [
+    "25/17",
+    "11/25",
+    "21/25",
+    "27/25",
+    "15/7"
+   ],
+   "reserves": "3 - 0",
+   "result": "win"
   },
   {
    "team": "dames-c",
@@ -674,7 +1025,15 @@
    "number": "ODP4B-0018",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 3",
+   "sets": [
+    "19/25",
+    "25/27",
+    "13/25"
+   ],
+   "reserves": "0 - 3",
+   "result": "loss"
   },
   {
    "team": "heren-a",
@@ -689,7 +1048,15 @@
    "number": "NAT3H-A-0019",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 0",
+   "sets": [
+    "25/15",
+    "25/22",
+    "27/25"
+   ],
+   "reserves": "3 - 0",
+   "result": "win"
   },
   {
    "team": "meisjes-u17-a",
@@ -697,14 +1064,22 @@
    "date": "04/10/2026",
    "time": "10:30",
    "iso": "2026-10-04T10:30",
-   "home": "OMU17N1R1b-0008: VT Real Juri WETTEREN",
+   "home": "VT Real Juri WETTEREN",
    "away": "VC KALKEN A",
    "hall": "Wetteren, Sporthal De Warande, Warandelaan 14B, 9230 Wetteren Belgie",
    "league": "Meisjes U17 · Niveau 1",
-   "number": "",
+   "number": "OMU17N1R1b-0008",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "16/25",
+    "25/21",
+    "23/25",
+    "16/25"
+   ],
+   "result": "win"
   },
   {
    "team": "jongens-u17",
@@ -712,14 +1087,22 @@
    "date": "04/10/2026",
    "time": "13:30",
    "iso": "2026-10-04T13:30",
-   "home": "OJU17U19N1R1b-0007: VC KALKEN (S)",
+   "home": "VC KALKEN (S)",
    "away": "Vamos STEKENE - SINT-GILLIS-WAAS (S)",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Jongens U17-U19 · Niveau 1",
-   "number": "",
+   "number": "OJU17U19N1R1b-0007",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/17",
+    "25/11",
+    "26/24",
+    "25/14"
+   ],
+   "result": "win"
   },
   {
    "team": "jongens-u15-a",
@@ -734,7 +1117,15 @@
    "number": "OJU15N1R1-0010",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "21/25",
+    "21/25",
+    "20/25",
+    "26/24"
+   ],
+   "result": "loss"
   },
   {
    "team": "dames-b",
@@ -749,7 +1140,17 @@
    "number": "ODP3A-0085",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "2 - 3",
+   "sets": [
+    "15/25",
+    "25/21",
+    "14/25",
+    "25/19",
+    "10/15"
+   ],
+   "reserves": "0 - 3",
+   "result": "win"
   },
   {
    "team": "jongens-u15-a",
@@ -764,7 +1165,15 @@
    "number": "OJU15N1R1-0040",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "21/25",
+    "15/25",
+    "16/25",
+    "25/20"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-a",
@@ -772,14 +1181,22 @@
    "date": "11/10/2026",
    "time": "18:00",
    "iso": "2026-10-11T18:00",
-   "home": "OMU15N1R1b-0002: VC KALKEN A (+)",
+   "home": "VC KALKEN A (+)",
    "away": "Tent-Events Eevoc ERTVELDE-EVERGEM A (+)",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U15 · Niveau 1",
-   "number": "",
+   "number": "OMU15N1R1b-0002",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/22",
+    "16/25",
+    "25/17",
+    "25/23"
+   ],
+   "result": "win"
   },
   {
    "team": "meisjes-u17-b",
@@ -787,14 +1204,22 @@
    "date": "17/10/2026",
    "time": "12:30",
    "iso": "2026-10-17T12:30",
-   "home": "OMU17N3R1e-0010: Tent-Events Eevoc ERTVELDE-EVERGEM B",
+   "home": "Tent-Events Eevoc ERTVELDE-EVERGEM B",
    "away": "VC KALKEN B (+)",
    "hall": "Ertvelde, Sporthal De Hoge Wal, Guldensporenlaan 32, 9940 Ertvelde Belgie",
    "league": "Meisjes U17 · Niveau 3",
-   "number": "",
+   "number": "OMU17N3R1e-0010",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/13",
+    "25/11",
+    "25/5",
+    "25/17"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-a",
@@ -802,14 +1227,23 @@
    "date": "17/10/2026",
    "time": "13:30",
    "iso": "2026-10-17T13:30",
-   "home": "OMU15N1R1b-0007: VC KALKEN A (+)",
+   "home": "VC KALKEN A (+)",
    "away": "Avanti AALTER A",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U15 · Niveau 1",
-   "number": "",
+   "number": "OMU15N1R1b-0007",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "2 - 3",
+   "sets": [
+    "25/21",
+    "20/25",
+    "25/17",
+    "20/25",
+    "15/17"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-b",
@@ -817,14 +1251,22 @@
    "date": "17/10/2026",
    "time": "13:30",
    "iso": "2026-10-17T13:30",
-   "home": "OMU15N3R1f-0004: Jevo MALDEGEM B",
+   "home": "Jevo MALDEGEM B",
    "away": "VC KALKEN B",
    "hall": "Maldegem, Sporthal Meos, Bloemestraat 36D, 9990 Maldegem Belgie",
    "league": "Meisjes U15 · Niveau 3",
-   "number": "",
+   "number": "OMU15N3R1f-0004",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/16",
+    "22/25",
+    "25/21",
+    "25/16"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u13",
@@ -832,14 +1274,22 @@
    "date": "17/10/2026",
    "time": "15:30",
    "iso": "2026-10-17T15:30",
-   "home": "OMU13N3R1e-0013: VC KALKEN (+)",
+   "home": "VC KALKEN (+)",
    "away": "VC OUDEGEM A",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U13 · Niveau 3",
-   "number": "",
+   "number": "OMU13N3R1e-0013",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "10/25",
+    "25/23",
+    "12/25",
+    "12/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "jongens-u15-a",
@@ -854,7 +1304,15 @@
    "number": "OJU15N1R1-0015",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "25/20",
+    "21/25",
+    "23/25",
+    "23/25"
+   ],
+   "result": "win"
   },
   {
    "team": "dames-c",
@@ -869,7 +1327,16 @@
    "number": "ODP4B-0025",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "25/22",
+    "21/25",
+    "23/25",
+    "13/25"
+   ],
+   "reserves": "1 - 2",
+   "result": "win"
   },
   {
    "team": "heren-a",
@@ -884,7 +1351,15 @@
    "number": "NAT3H-A-0017",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 3",
+   "sets": [
+    "18/25",
+    "13/25",
+    "22/25"
+   ],
+   "reserves": "2 - 1",
+   "result": "win"
   },
   {
    "team": "heren-c",
@@ -899,7 +1374,15 @@
    "number": "OHP3A-0016",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 0",
+   "sets": [
+    "25/18",
+    "25/21",
+    "25/9"
+   ],
+   "reserves": "1 - 2",
+   "result": "loss"
   },
   {
    "team": "jongens-u17",
@@ -907,14 +1390,23 @@
    "date": "18/10/2026",
    "time": "13:30",
    "iso": "2026-10-18T13:30",
-   "home": "OJU17U19N1R1b-0010: VC KALKEN (S)",
+   "home": "VC KALKEN (S)",
    "away": "VC Belvoc BELSELE A (S)",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Jongens U17-U19 · Niveau 1",
-   "number": "",
+   "number": "OJU17U19N1R1b-0010",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "2 - 3",
+   "sets": [
+    "17/25",
+    "25/23",
+    "25/18",
+    "22/25",
+    "7/15"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u17-a",
@@ -922,14 +1414,22 @@
    "date": "18/10/2026",
    "time": "13:30",
    "iso": "2026-10-18T13:30",
-   "home": "OMU17N1R1b-0009: VC KALKEN A",
+   "home": "VC KALKEN A",
    "away": "VC Flygha GREMBERGEN-HAMME (+)",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U17 · Niveau 1",
-   "number": "",
+   "number": "OMU17N1R1b-0009",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/16",
+    "25/9",
+    "25/14",
+    "25/23"
+   ],
+   "result": "win"
   },
   {
    "team": "meisjes-u15-b",
@@ -937,14 +1437,22 @@
    "date": "24/10/2026",
    "time": "10:00",
    "iso": "2026-10-24T10:00",
-   "home": "OMU15N3R1f-0017: Tent-Events Eevoc ERTVELDE-EVERGEM B (+)",
+   "home": "Tent-Events Eevoc ERTVELDE-EVERGEM B (+)",
    "away": "VC KALKEN B",
    "hall": "Ertvelde, Sporthal De Hoge Wal, Guldensporenlaan 32, 9940 Ertvelde Belgie",
    "league": "Meisjes U15 · Niveau 3",
-   "number": "",
+   "number": "OMU15N3R1f-0017",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 4",
+   "sets": [
+    "14/25",
+    "10/25",
+    "23/25",
+    "19/25"
+   ],
+   "result": "win"
   },
   {
    "team": "meisjes-u17-a",
@@ -952,14 +1460,22 @@
    "date": "24/10/2026",
    "time": "11:30",
    "iso": "2026-10-24T11:30",
-   "home": "OMU17N1R1b-0011: Damesvolley Dok Noord GENT A",
+   "home": "Damesvolley Dok Noord GENT A",
    "away": "VC KALKEN A",
    "hall": "Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker Belgie",
    "league": "Meisjes U17 · Niveau 1",
-   "number": "",
+   "number": "OMU17N1R1b-0011",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "25/22",
+    "20/25",
+    "20/25",
+    "24/26"
+   ],
+   "result": "win"
   },
   {
    "team": "meisjes-u15-a",
@@ -967,14 +1483,22 @@
    "date": "24/10/2026",
    "time": "12:30",
    "iso": "2026-10-24T12:30",
-   "home": "OMU15N1R1b-0012: Tent-Events Eevoc ERTVELDE-EVERGEM A (+)",
+   "home": "Tent-Events Eevoc ERTVELDE-EVERGEM A (+)",
    "away": "VC KALKEN A (+)",
    "hall": "Ertvelde, Sporthal De Hoge Wal, Guldensporenlaan 32, 9940 Ertvelde Belgie",
    "league": "Meisjes U15 · Niveau 1",
-   "number": "",
+   "number": "OMU15N1R1b-0012",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "15/25",
+    "25/21",
+    "18/25",
+    "20/25"
+   ],
+   "result": "win"
   },
   {
    "team": "gemengd-u13",
@@ -989,7 +1513,15 @@
    "number": "OJU13N1R1-0012",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 4",
+   "sets": [
+    "15/25",
+    "15/25",
+    "17/25",
+    "19/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "dames-b",
@@ -1004,7 +1536,16 @@
    "number": "ODP3A-0034",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/16",
+    "25/13",
+    "16/25",
+    "25/20"
+   ],
+   "reserves": "2 - 1",
+   "result": "win"
   },
   {
    "team": "meisjes-u13",
@@ -1012,14 +1553,22 @@
    "date": "24/10/2026",
    "time": "15:30",
    "iso": "2026-10-24T15:30",
-   "home": "OMU13N3R1e-0016: VC KALKEN (+)",
+   "home": "VC KALKEN (+)",
    "away": "VC LOCHRISTI-WACHTEBEKE A",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U13 · Niveau 3",
-   "number": "",
+   "number": "OMU13N3R1e-0016",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 4",
+   "sets": [
+    "9/25",
+    "14/25",
+    "23/25",
+    "16/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "heren-b",
@@ -1034,7 +1583,15 @@
    "number": "OHP2-0028",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 0",
+   "sets": [
+    "25/21",
+    "25/17",
+    "25/20"
+   ],
+   "reserves": "3 - 0",
+   "result": "win"
   },
   {
    "team": "jongens-u17",
@@ -1042,14 +1599,22 @@
    "date": "24/10/2026",
    "time": "16:30",
    "iso": "2026-10-24T16:30",
-   "home": "OJU17U19N1R1b-0011: VC Belvoc BELSELE (J) (+)",
+   "home": "VC Belvoc BELSELE (J) (+)",
    "away": "VC KALKEN (S)",
    "hall": "Belsele, Sporthal De Klavers, St-Andriesstraat, 9111 Belsele Belgie",
    "league": "Jongens U17-U19 · Niveau 1",
-   "number": "",
+   "number": "OJU17U19N1R1b-0011",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "30/28",
+    "25/15",
+    "25/23",
+    "25/17"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u17-b",
@@ -1057,14 +1622,22 @@
    "date": "24/10/2026",
    "time": "16:30",
    "iso": "2026-10-24T16:30",
-   "home": "OMU17N3R1e-0013: VC LOCHRISTI-WACHTEBEKE B (+)",
+   "home": "VC LOCHRISTI-WACHTEBEKE B (+)",
    "away": "VC KALKEN B (+)",
    "hall": "Zaffelare, Sporthal 't Veerleveld, K.P.Triestlaan 1, 9080 Zaffelare Belgie",
    "league": "Meisjes U17 · Niveau 3",
-   "number": "",
+   "number": "OMU17N3R1e-0013",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/22",
+    "25/22",
+    "25/21",
+    "22/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "dames-c",
@@ -1079,7 +1652,16 @@
    "number": "ODP4B-0053",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/27",
+    "25/10",
+    "25/22",
+    "25/21"
+   ],
+   "reserves": "1 - 2",
+   "result": "win"
   },
   {
    "team": "heren-a",
@@ -1094,7 +1676,15 @@
    "number": "NAT3H-A-0031",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 0",
+   "sets": [
+    "25/20",
+    "25/9",
+    "25/18"
+   ],
+   "reserves": "3 - 0",
+   "result": "win"
   },
   {
    "team": "jongens-u15-a",
@@ -1109,7 +1699,15 @@
    "number": "OJU15N1R1-0016",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 4",
+   "sets": [
+    "18/25",
+    "18/25",
+    "23/25",
+    "21/25"
+   ],
+   "result": "loss"
   },
   {
    "team": "dames-a",
@@ -1124,7 +1722,16 @@
    "number": "ODP1-0027",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "1 - 3",
+   "sets": [
+    "25/16",
+    "11/25",
+    "13/25",
+    "20/25"
+   ],
+   "reserves": "2 - 1",
+   "result": "loss"
   },
   {
    "team": "heren-c",
@@ -1139,7 +1746,17 @@
    "number": "OHP3A-0022",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 2",
+   "sets": [
+    "17/25",
+    "25/16",
+    "19/25",
+    "25/20",
+    "15/13"
+   ],
+   "reserves": "2 - 1",
+   "result": "loss"
   },
   {
    "team": "heren-a",
@@ -1154,7 +1771,15 @@
    "number": "NAT3H-A-0038",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 0",
+   "sets": [
+    "25/21",
+    "25/23",
+    "25/19"
+   ],
+   "reserves": "2 - 1",
+   "result": "loss"
   },
   {
    "team": "heren-b",
@@ -1169,7 +1794,16 @@
    "number": "OHP2-0038",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "19/25",
+    "25/23",
+    "25/22",
+    "25/23"
+   ],
+   "reserves": "0 - 3",
+   "result": "loss"
   },
   {
    "team": "dames-a",
@@ -1184,7 +1818,16 @@
    "number": "ODP1-0022",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/15",
+    "20/25",
+    "25/14",
+    "25/13"
+   ],
+   "reserves": "1 - 2",
+   "result": "loss"
   },
   {
    "team": "dames-b",
@@ -1199,7 +1842,16 @@
    "number": "ODP3A-0030",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/21",
+    "25/12",
+    "21/25",
+    "25/20"
+   ],
+   "reserves": "1 - 2",
+   "result": "loss"
   },
   {
    "team": "jongens-u17",
@@ -1207,11 +1859,11 @@
    "date": "07/11/2026",
    "time": "13:30",
    "iso": "2026-11-07T13:30",
-   "home": "OJU17U19N1R1b-0013: Vamos STEKENE - SINT-GILLIS-WAAS (S)",
+   "home": "Vamos STEKENE - SINT-GILLIS-WAAS (S)",
    "away": "VC KALKEN (S)",
    "hall": "Stekene, Sporthal De Sportstek, Nieuwstraat 60D, 9190 Stekene Belgie",
    "league": "Jongens U17-U19 · Niveau 1",
-   "number": "",
+   "number": "OJU17U19N1R1b-0013",
    "loc": "away",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1222,11 +1874,11 @@
    "date": "07/11/2026",
    "time": "13:30",
    "iso": "2026-11-07T13:30",
-   "home": "OMU15N1R1b-0013: VC KALKEN A (+)",
+   "home": "VC KALKEN A (+)",
    "away": "Ass'nee ASSENEDE",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U15 · Niveau 1",
-   "number": "",
+   "number": "OMU15N1R1b-0013",
    "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1237,11 +1889,11 @@
    "date": "07/11/2026",
    "time": "13:30",
    "iso": "2026-11-07T13:30",
-   "home": "OMU15N3R1f-0019: VC KALKEN B",
+   "home": "VC KALKEN B",
    "away": "Jevo MALDEGEM B",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U15 · Niveau 3",
-   "number": "",
+   "number": "OMU15N3R1f-0019",
    "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1252,11 +1904,11 @@
    "date": "07/11/2026",
    "time": "13:30",
    "iso": "2026-11-07T13:30",
-   "home": "OMU17N3R1e-0011: VC KALKEN B (+)",
+   "home": "VC KALKEN B (+)",
    "away": "Forza Evo Volley OUDENAARDE C",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U17 · Niveau 3",
-   "number": "",
+   "number": "OMU17N3R1e-0011",
    "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1372,11 +2024,11 @@
    "date": "08/11/2026",
    "time": "14:30",
    "iso": "2026-11-08T14:30",
-   "home": "OMU13N3R1e-0019: Nidak NIEUWKERKEN A (+)",
+   "home": "Nidak NIEUWKERKEN A (+)",
    "away": "VC KALKEN (+)",
    "hall": "Nieuwkerken, Sporthal De Mispelaer, Gyselstraat 41, 9100 Nieuwkerken-Waas Belgie",
    "league": "Meisjes U13 · Niveau 3",
-   "number": "",
+   "number": "OMU13N3R1e-0019",
    "loc": "away",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1402,11 +2054,11 @@
    "date": "14/11/2026",
    "time": "11:30",
    "iso": "2026-11-14T11:30",
-   "home": "OMU15N1R1b-0015: Damesvolley Dok Noord GENT B",
+   "home": "Damesvolley Dok Noord GENT B",
    "away": "VC KALKEN A (+)",
    "hall": "Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker Belgie",
    "league": "Meisjes U15 · Niveau 1",
-   "number": "",
+   "number": "OMU15N1R1b-0015",
    "loc": "away",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1417,11 +2069,11 @@
    "date": "14/11/2026",
    "time": "13:00",
    "iso": "2026-11-14T13:00",
-   "home": "OMU17N3R1e-0015: VC OUDEGEM",
+   "home": "VC OUDEGEM",
    "away": "VC KALKEN B (+)",
    "hall": "Oudegem, Sporthal, Ouburg, 9200 Oudegem Belgie",
    "league": "Meisjes U17 · Niveau 3",
-   "number": "",
+   "number": "OMU17N3R1e-0015",
    "loc": "away",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1432,11 +2084,11 @@
    "date": "14/11/2026",
    "time": "14:00",
    "iso": "2026-11-14T14:00",
-   "home": "OJU17U19N1R1b-0016: VC Belvoc BELSELE A (S)",
+   "home": "VC Belvoc BELSELE A (S)",
    "away": "VC KALKEN (S)",
    "hall": "Belsele, Sporthal De Klavers, St-Andriesstraat, 9111 Belsele Belgie",
    "league": "Jongens U17-U19 · Niveau 1",
-   "number": "",
+   "number": "OJU17U19N1R1b-0016",
    "loc": "away",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1462,11 +2114,11 @@
    "date": "14/11/2026",
    "time": "15:30",
    "iso": "2026-11-14T15:30",
-   "home": "OMU15N3R1f-0008: VC KALKEN B",
+   "home": "VC KALKEN B",
    "away": "Argos WAARSCHOOT A (+)",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U15 · Niveau 3",
-   "number": "",
+   "number": "OMU15N3R1f-0008",
    "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1537,11 +2189,11 @@
    "date": "15/11/2026",
    "time": "13:30",
    "iso": "2026-11-15T13:30",
-   "home": "OMU17N1R1b-0016: VC KALKEN A",
+   "home": "VC KALKEN A",
    "away": "KVC Panda's LOKEREN A",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U17 · Niveau 1",
-   "number": "",
+   "number": "OMU17N1R1b-0016",
    "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1567,11 +2219,11 @@
    "date": "15/11/2026",
    "time": "15:30",
    "iso": "2026-11-15T15:30",
-   "home": "OMU13N3R1e-0024: VC KALKEN (+)",
+   "home": "VC KALKEN (+)",
    "away": "Gimm-E Waasland KRUIBEKE B (+)",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U13 · Niveau 3",
-   "number": "",
+   "number": "OMU13N3R1e-0024",
    "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1582,11 +2234,11 @@
    "date": "21/11/2026",
    "time": "15:00",
    "iso": "2026-11-21T15:00",
-   "home": "OMU15N3R1f-0025: VT Real Juri WETTEREN B",
+   "home": "VT Real Juri WETTEREN B",
    "away": "VC KALKEN B",
    "hall": "Wetteren, Sporthal De Warande, Warandelaan 14B, 9230 Wetteren Belgie",
    "league": "Meisjes U15 · Niveau 3",
-   "number": "",
+   "number": "OMU15N3R1f-0025",
    "loc": "away",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1657,11 +2309,11 @@
    "date": "22/11/2026",
    "time": "13:30",
    "iso": "2026-11-22T13:30",
-   "home": "OJU17U19N1R1b-0017: VC KALKEN (S)",
+   "home": "VC KALKEN (S)",
    "away": "VC Belvoc BELSELE (J) (+)",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Jongens U17-U19 · Niveau 1",
-   "number": "",
+   "number": "OJU17U19N1R1b-0017",
    "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1672,11 +2324,11 @@
    "date": "22/11/2026",
    "time": "13:30",
    "iso": "2026-11-22T13:30",
-   "home": "OMU13N3R1e-0027: VC KALKEN (+)",
+   "home": "VC KALKEN (+)",
    "away": "Asterix AVO BEVEREN C",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U13 · Niveau 3",
-   "number": "",
+   "number": "OMU13N3R1e-0027",
    "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1687,11 +2339,11 @@
    "date": "22/11/2026",
    "time": "13:30",
    "iso": "2026-11-22T13:30",
-   "home": "OMU15N1R1b-0017: Avanti AALTER A",
+   "home": "Avanti AALTER A",
    "away": "VC KALKEN A (+)",
    "hall": "Aalter, Gemeentelijk Sportpark, Lindestraat 17, 9880 Aalter Belgie",
    "league": "Meisjes U15 · Niveau 1",
-   "number": "",
+   "number": "OMU15N1R1b-0017",
    "loc": "away",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1702,11 +2354,11 @@
    "date": "22/11/2026",
    "time": "13:30",
    "iso": "2026-11-22T13:30",
-   "home": "OMU17N1R1b-0018: VC KALKEN A",
+   "home": "VC KALKEN A",
    "away": "VT Real Juri WETTEREN",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U17 · Niveau 1",
-   "number": "",
+   "number": "OMU17N1R1b-0018",
    "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1777,11 +2429,11 @@
    "date": "28/11/2026",
    "time": "10:00",
    "iso": "2026-11-28T10:00",
-   "home": "OMU13N3R1e-0028: VC OUDEGEM A",
+   "home": "VC OUDEGEM A",
    "away": "VC KALKEN (+)",
    "hall": "Oudegem, Sporthal, Ouburg, 9200 Oudegem Belgie",
    "league": "Meisjes U13 · Niveau 3",
-   "number": "",
+   "number": "OMU13N3R1e-0028",
    "loc": "away",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1792,11 +2444,11 @@
    "date": "28/11/2026",
    "time": "13:30",
    "iso": "2026-11-28T13:30",
-   "home": "OMU17N3R1e-0020: VC KALKEN B (+)",
+   "home": "VC KALKEN B (+)",
    "away": "Tent-Events Eevoc ERTVELDE-EVERGEM B",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U17 · Niveau 3",
-   "number": "",
+   "number": "OMU17N3R1e-0020",
    "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1822,11 +2474,11 @@
    "date": "28/11/2026",
    "time": "15:30",
    "iso": "2026-11-28T15:30",
-   "home": "OMU15N3R1f-0030: VC KALKEN B",
+   "home": "VC KALKEN B",
    "away": "Vamos STEKENE-SINT-GILLIS WAAS B",
    "hall": "Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie",
    "league": "Meisjes U15 · Niveau 3",
-   "number": "",
+   "number": "OMU15N3R1f-0030",
    "loc": "home",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
@@ -1837,11 +2489,11 @@
    "date": "28/11/2026",
    "time": "16:00",
    "iso": "2026-11-28T16:00",
-   "home": "OMU17N1R1b-0019: VC Flygha GREMBERGEN-HAMME (+)",
+   "home": "VC Flygha GREMBERGEN-HAMME (+)",
    "away": "VC KALKEN A",
    "hall": "Grembergen, Gemeentelijke Basisschool, Rootjesweg 76, 9200 Grembergen Belgie",
    "league": "Meisjes U17 · Niveau 1",
-   "number": "",
+   "number": "OMU17N1R1b-0019",
    "loc": "away",
    "cancelled": false,
    "url": "https://www.volleyscores.be/direct/O-1464"
