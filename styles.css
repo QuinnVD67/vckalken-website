@@ -2265,7 +2265,7 @@ textarea {
 
 .match {
   display: grid;
-  grid-template-columns: 120px minmax(0, 1fr) 90px 168px;
+  grid-template-columns: 120px minmax(0, 1fr) auto auto;
   gap: 16px;
   align-items: center;
   background: #fff;
