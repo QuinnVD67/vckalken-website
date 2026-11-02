@@ -138,6 +138,7 @@ def split_teams(summary):
 
 
 NUMBER_RE = re.compile(r"\b[A-Z0-9]{2,}(?:-[A-Za-z0-9]{1,4})*-\d{3,4}\b")
+PREFIX_RE = re.compile(r"^\s*" + NUMBER_RE.pattern + r"\s*:\s*")
 
 
 def event_to_match(ev, team, club_url):
@@ -145,7 +146,9 @@ def event_to_match(ev, team, club_url):
     if not summary or "DTSTART" not in ev:
         return None
     start, has_time = parse_dt(*ev["DTSTART"])
-    home, away = split_teams(summary)
+    # Volleyscores zet het wedstrijdnummer vooraan ('OJU15N1R1-0039: Thuis - Bezoekers');
+    # dat nummer staat al apart in "number", dus niet in de ploegnaam laten staan.
+    home, away = split_teams(PREFIX_RE.sub("", summary, count=1))
     desc = unescape(ev.get("DESCRIPTION", ("", {}))[0])
     hall = unescape(ev.get("LOCATION", ("", {}))[0])
     status = ev.get("STATUS", ("", {}))[0].strip().upper()
