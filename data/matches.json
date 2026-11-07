@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:45",
+ "updated": "2026-11-07T20:25",
  "matches": [
   {
    "team": "jongens-u15-a",
@@ -1866,7 +1866,15 @@
    "number": "OJU17U19N1R1b-0013",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 4",
+   "sets": [
+    "14/25",
+    "14/25",
+    "24/26",
+    "22/25"
+   ],
+   "result": "win"
   },
   {
    "team": "meisjes-u15-a",
@@ -1881,7 +1889,16 @@
    "number": "OMU15N1R1b-0013",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "2 - 3",
+   "sets": [
+    "22/25",
+    "12/25",
+    "25/23",
+    "25/23",
+    "11/15"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-b",
@@ -1896,7 +1913,15 @@
    "number": "OMU15N3R1f-0019",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/16",
+    "25/8",
+    "25/23",
+    "16/25"
+   ],
+   "result": "win"
   },
   {
    "team": "meisjes-u17-b",
@@ -1911,7 +1936,15 @@
    "number": "OMU17N3R1e-0011",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "10/25",
+    "25/15",
+    "25/17",
+    "25/18"
+   ],
+   "result": "win"
   },
   {
    "team": "dames-c",
@@ -1926,7 +1959,16 @@
    "number": "ODP4B-0032",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/23",
+    "25/18",
+    "22/25",
+    "25/9"
+   ],
+   "reserves": "3 - 0",
+   "result": "loss"
   },
   {
    "team": "dames-a",
@@ -1941,7 +1983,16 @@
    "number": "ODP1-0033",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "24/26",
+    "25/19",
+    "25/21",
+    "25/18"
+   ],
+   "reserves": "2 - 1",
+   "result": "loss"
   },
   {
    "team": "dames-b",
