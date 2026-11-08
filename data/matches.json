@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:36",
+ "updated": "2026-11-08T18:56",
  "matches": [
   {
    "team": "jongens-u15-a",
@@ -2079,7 +2079,15 @@
    "number": "OJU15N1R1-0019",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/9",
+    "25/12",
+    "25/18",
+    "25/12"
+   ],
+   "result": "loss"
   },
   {
    "team": "gemengd-u13",
@@ -2094,7 +2102,15 @@
    "number": "OJU13N1R1-0014",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/3",
+    "25/16",
+    "25/18",
+    "25/18"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u13",
@@ -2109,7 +2125,15 @@
    "number": "OMU13N3R1e-0019",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/8",
+    "25/9",
+    "25/19",
+    "25/17"
+   ],
+   "result": "loss"
   },
   {
    "team": "heren-c",
@@ -2124,7 +2148,15 @@
    "number": "OHP3A-0027",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "0 - 3",
+   "sets": [
+    "18/25",
+    "19/25",
+    "13/25"
+   ],
+   "reserves": "3 - 0",
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-a",
