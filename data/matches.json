@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:56",
+ "updated": "2026-11-14T19:01",
  "matches": [
   {
    "team": "jongens-u15-a",
@@ -2171,7 +2171,15 @@
    "number": "OMU15N1R1b-0015",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/16",
+    "25/12",
+    "25/21",
+    "25/10"
+   ],
+   "result": "loss"
   },
   {
    "team": "meisjes-u17-b",
@@ -2186,7 +2194,15 @@
    "number": "OMU17N3R1e-0015",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "4 - 0",
+   "sets": [
+    "25/17",
+    "25/21",
+    "25/7",
+    "25/4"
+   ],
+   "result": "loss"
   },
   {
    "team": "jongens-u17",
@@ -2201,7 +2217,15 @@
    "number": "OJU17U19N1R1b-0016",
    "loc": "away",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "20/25",
+    "25/19",
+    "25/19",
+    "26/24"
+   ],
+   "result": "loss"
   },
   {
    "team": "dames-a",
@@ -2216,7 +2240,17 @@
    "number": "ODP1-0037",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "2 - 3",
+   "sets": [
+    "25/18",
+    "25/27",
+    "25/22",
+    "23/25",
+    "11/15"
+   ],
+   "reserves": "0 - 3",
+   "result": "loss"
   },
   {
    "team": "meisjes-u15-b",
@@ -2231,7 +2265,16 @@
    "number": "OMU15N3R1f-0008",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "2 - 3",
+   "sets": [
+    "25/15",
+    "14/25",
+    "12/25",
+    "25/14",
+    "11/15"
+   ],
+   "result": "loss"
   },
   {
    "team": "dames-b",
@@ -2246,7 +2289,16 @@
    "number": "ODP3A-0044",
    "loc": "home",
    "cancelled": false,
-   "url": "https://www.volleyscores.be/direct/O-1464"
+   "url": "https://www.volleyscores.be/direct/O-1464",
+   "score": "3 - 1",
+   "sets": [
+    "25/23",
+    "25/17",
+    "13/25",
+    "25/21"
+   ],
+   "reserves": "0 - 3",
+   "result": "win"
   },
   {
    "team": "gemengd-u13",
